@@ -4,13 +4,13 @@ PyLadies LA and LA Django had a great event, **[Django Gotchas & Django 1.8 to 1
 
 ## The Talks
 
-#### Django Gotchas || How I Crashed The Black Tux Website(**[Slides](https://docs.google.com/presentation/d/14l6ZjzdpV-fXgSbbsza9YQ-nk0PvxFBVCfXDNPHWrkc/)**)
+1. #### Django Gotchas || How I Crashed The Black Tux Website(**[Slides](https://docs.google.com/presentation/d/14l6ZjzdpV-fXgSbbsza9YQ-nk0PvxFBVCfXDNPHWrkc/)**)
 
 Presented by [Sandra Winkler](https://www.linkedin.com/in/sandra-winkler/), Software Engineer at The Black Tux 
 
 Explore common Django pitfalls and strategies for identifying problems before they cause a site outage.
 
-#### Django 1.8 to 1.11 || Tips for an (almost) painless upgrade (**[Slides](https://docs.google.com/presentation/d/1zvMdHIO05-nu7i2zqIGbFyxJ2utMRt3Wr2rqwJJUVcs/)**)
+2. #### Django 1.8 to 1.11 || Tips for an (almost) painless upgrade (**[Slides](https://docs.google.com/presentation/d/1zvMdHIO05-nu7i2zqIGbFyxJ2utMRt3Wr2rqwJJUVcs/)**)
 
 Presented by [Ali Tycast](https://www.linkedin.com/in/ali-tycast-56068b51/), Software Engineer at The Black Tux 
 
